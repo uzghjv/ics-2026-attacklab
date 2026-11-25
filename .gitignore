@@ -5,3 +5,6 @@ core.*
 vgcore.*
 *.o
 .DS_Store
+before.txt
+stackfile1.txt
+LAB3_PLAN.md
